@@ -59,4 +59,5 @@ The app leverages **AI models** for:
 ---
 
 ## 🏗️ Architecture
+Citizen App → API Gateway → AI Service (Verification + Classification) → Database → Admin Dashboard
 
