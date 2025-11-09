@@ -125,7 +125,7 @@ Geo-tagging + Storage
 
 ### 1️⃣ Clone the repository
 
-git clone [https://github.com/your-username/civic-care.git](https://github.com/gitsrishti04/CivicCareee.git)
+git clone (https://github.com/gitsrishti04/CivicCareee.git)
 cd civic-care
 
 ## Create a virtual environment
