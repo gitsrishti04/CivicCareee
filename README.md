@@ -2,8 +2,10 @@
 
 > 🚀 Empowering Smart Cities with AI Verification, Transparency, and Real-time Problem Solving.
 
-# civic care ai analyser(Bse 44 track 5 - Smart cities) : DEPLOYED LINK
+# civic care ai analyser(Base 44 track 5 - Smart cities) : DEPLOYED LINK
 https://civic-care-ai-b46d7488.base44.app/
+
+# DEMO LINK : https://www.youtube.com/watch?v=KT2Oa8Ve5e0 
 
 ---
 
